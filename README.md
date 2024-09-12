@@ -1,6 +1,4 @@
-# Dev Challenges - Image Uploader fullstack application
 
-This is a solution to the [Image Uploader challenge on devChallenges](https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx).
 ## Table of contents
 
 - [Overview](#overview)
