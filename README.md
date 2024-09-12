@@ -93,9 +93,7 @@ There's this quite complex fullstack application I saw, so I'm planning to try b
 - [Complete Guide to CORS](https://reflectoring.io/complete-guide-to-cors/) - This article was really detailed in its explanation of CORS, very helpful in helping me understand what the protocol does.
 - [How to use CORS in Node.js with Express](https://www.section.io/engineering-education/how-to-use-cors-in-nodejs-with-express/) - A straightforward resource that helps illustrate on how to use CORS in Express apps.
 
-## Author
 
-- Twitter - [@sodiqsanusi_](https://www.twitter.com/sodiqsanusi_)
 
 ## Acknowledgments
 
