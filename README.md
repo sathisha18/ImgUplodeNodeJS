@@ -33,7 +33,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/sodiqsanusi/multi-step-form/](https://github.com/sodiqsanusi/image-uploader/)
 - Live Site URL: [https://imageuploader-challenge.netlify.app/](https://imageuploader-challenge.netlify.app/)
 
 ## My process
